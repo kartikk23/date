@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38403129950",
+    "project_id": "date-200aa",
+    "storage_bucket": "date-200aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38403129950:android:1a5a18d5a2eab8e0d8aacf",
+        "android_client_info": {
+          "package_name": "com.kartik.date"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38403129950-8ui26587ttjap6qcvbqobdrdfgb9dbq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo9wm5GUiT799wdh6PHGMyHJTiZzwfs9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38403129950-8ui26587ttjap6qcvbqobdrdfgb9dbq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
